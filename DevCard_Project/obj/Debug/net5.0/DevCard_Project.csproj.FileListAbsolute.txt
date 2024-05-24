@@ -119,3 +119,4 @@ E:\exampleMVC\DevCard_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Wo
 E:\exampleMVC\DevCard_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\exampleMVC\DevCard_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
