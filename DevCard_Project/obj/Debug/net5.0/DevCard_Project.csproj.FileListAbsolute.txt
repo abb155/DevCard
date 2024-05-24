@@ -27,7 +27,6 @@ E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\DevCard_Project.TagHelpers.input.
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\DevCard_Project.TagHelpers.output.cache
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\DevCard_Project.RazorCoreGenerate.cache
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -42,3 +41,4 @@ E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\DevCard_Project.pdb
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\DevCard_Project.genruntimeconfig.cache
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\ref\DevCard_Project.dll
 E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\DevCard_Project.csproj.CopyComplete
+E:\exampleMVC\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
